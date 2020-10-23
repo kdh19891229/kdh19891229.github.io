@@ -3,10 +3,16 @@ title: Who is Dana Carvey?
 category: People
 ---
 <a href="https://drive.google.com/file/d/1EPVRjab_g-Q1ZfJ3qBXZ2VGHBza7ig6t/view?usp=sharing">zoom 보기</a><br>
+<html>
+	<head>
+		<title>yongTech</title>
+	</head>
+	<body>
+		<iframe style="width:100%;height:100%;"	src="kage@RjQfX/btqLEN2gDCV/8Remw1SkofCdSEhuJLxaEK/tfile.pdf">
+		</iframe>
+	</body>
 
-<object type="application/pdf" data="https://blog.kakaocdn.net/dn/RjQfX/btqLEN2gDCV/8Remw1SkofCdSEhuJLxaEK/%EC%B5%9C%EC%A2%85__200728_%EB%B9%84%EB%8C%80%EB%A9%B4%EA%B0%95%EC%9D%98%EB%A7%A4%EB%89%B4%EC%96%BC_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9A%A9.pdf?attach=1&knm=tfile.pdf" width="100%" height="450">
-
-<param name="src" value="https://blog.kakaocdn.net/dn/RjQfX/btqLEN2gDCV/8Remw1SkofCdSEhuJLxaEK/%EC%B5%9C%EC%A2%85__200728_%EB%B9%84%EB%8C%80%EB%A9%B4%EA%B0%95%EC%9D%98%EB%A7%A4%EB%89%B4%EC%96%BC_%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9A%A9.pdf?attach=1&knm=tfile.pdf"> </object>
+</html>
 
 Dana Thomas Carvey (born June 2, 1955) is a performer and stand-up comedian known for their work as a cast member on Saturday Night Live and for playing the role of Garth Algar in the Wayne's World films.
 
