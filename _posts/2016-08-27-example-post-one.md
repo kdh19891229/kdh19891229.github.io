@@ -7,13 +7,14 @@ Wayne's World is a 1992 comedy film directed by Penelope Spheeris and starring M
 
 <!-- more -->
 <html>
-	<head>
-		<title>zoom</title>
-	</head>
-	<body>
-		<ifram style="width:100%;height:100%;"
-			src="https://drive.google.com/file/d/1EPVRjab_g-Q1ZfJ3qBXZ2VGHBza7ig6t/view?usp=sharing">
-	</iframe>
+  <head>
+    <title>HTML 페이지에 PDF 파일을 포함시키는 방법</title>
+  </head>
+  <body>
+    <h1>HTML 페이지에 PDF 파일을 포함시키는 방법</h1>
+	<embed src="sample.pdf" type="https://drive.google.com/file/d/1EPVRjab_g-Q1ZfJ3qBXZ2VGHBza7ig6t/view?usp=sharing" width="100%" height="600px" />
+  </body>
+</html>
 </body>
 
 </html>
