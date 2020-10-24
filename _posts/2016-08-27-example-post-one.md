@@ -2,7 +2,7 @@
 title: What was Wayne's World?
 category: General
 ---
-
+<iframe class="scribd_iframe_embed" title="ZOOM+회원가입+및+사용법_모바일+버전.pdf" src="https://www.scribd.com/embeds/481368995/content?start_page=1&view_mode=scroll&access_key=key-u5cbSCP6R0IuWd7xemki" data-auto-height="true" data-aspect-ratio="0.5312131919905771" scrolling="no" width="100%" height="600" frameborder="0"></iframe><p  style="   margin: 12px auto 6px auto;   font-family: Helvetica,Arial,Sans-serif;   font-style: normal;   font-variant: normal;   font-weight: normal;   font-size: 14px;   line-height: normal;   font-size-adjust: none;   font-stretch: normal;   -x-system-font: none;   display: block;"   ><a title="View ZOOM+회원가입+및+사용법_모바일+버전.pdf on Scribd" href="https://www.scribd.com/document/481368995/ZOOM-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EB%B2%84%EC%A0%84-pdf#from_embed"  style="text-decoration: underline;">ZOOM+회원가입+및+사용법_모바일+버전.pdf</a> by <a title="View 김대현's profile on Scribd" href="https://www.scribd.com/user/528907510/%EA%B9%80%EB%8C%80%ED%98%84#from_embed"  style="text-decoration: underline;">김대현</a></p>
 Wayne's World is a 1992 comedy film directed by Penelope Spheeris and starring Mike Myers as Wayne Campbell and Dana Carvey as Garth Algar. The film was adapted from a sketch of the same name on NBC's Saturday Night Live.
 
 <!-- more -->
