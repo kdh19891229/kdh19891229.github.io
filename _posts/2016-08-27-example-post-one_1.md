@@ -1,6 +1,6 @@
 ---
-title: What was Wayne's World?
-category: General
+title: 갤럭시 스마트폰 기초 사용법 기능 활용방법 배우기
+category: 컴튜브IB96
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VhN1pbeO_xA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Wayne's World is a 1992 comedy film directed by Penelope Spheeris and starring Mike Myers as Wayne Campbell and Dana Carvey as Garth Algar. The film was adapted from a sketch of the same name on NBC's Saturday Night Live.
